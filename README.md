@@ -1,6 +1,7 @@
-# KKuTu
-- Made by [JJoriping](http://blog.jjo.kr/)
+# 급식끄투
+- Made by 급식끄투 Team
 - Special thanks to
+  	* [JJoriping](http://blog.jjo.kr/)
 	* [샌드박스 :: SDBX](http://cafe.naver.com/sdbx)
 	* [SWMaestro](http://www.swmaestro.kr)
 	* You to have interested in this repository :)
@@ -11,7 +12,7 @@
 	* [English](#english)
 
 ## 한국어
-> 글자로 놀자! 끄투 온라인
+> 학생의, 학생을 위한, 학생에 의한 끄투. 급식 끄투!
 
 **끄투**는 여러분의 어휘력을 발휘할 수 있는 다양한 단어 게임들이 모여 있는 캐주얼 게임입니다.
 로봇과 혼자서 게임을 할 수도 있고, 서버에 접속해 있는 다른 사람들과 함께 할 수도 있죠.
